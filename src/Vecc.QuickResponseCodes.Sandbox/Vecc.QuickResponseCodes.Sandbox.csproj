@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\Vecc.QuickResponseCodes.ApiClient\Vecc.QuickResponseCodes.ApiClient.csproj" />
+    <ProjectReference Include="..\Vecc.QuickResponseCodes.ApiClient\Vecc.QuickResponseCodes.ApiClient.csproj" />
   </ItemGroup>
 
 </Project>

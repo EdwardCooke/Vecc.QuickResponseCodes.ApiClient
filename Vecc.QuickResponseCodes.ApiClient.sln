@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{47FF7683-BDE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vecc.QuickResponseCodes.ApiClient", "src\Vecc.QuickResponseCodes.ApiClient\Vecc.QuickResponseCodes.ApiClient.csproj", "{008C1639-8625-4697-9317-C4F049C4CEE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vecc.QuickResponseCodes.Sandbox", "Vecc.QuickResponseCodes.Sandbox\Vecc.QuickResponseCodes.Sandbox.csproj", "{D59F5B93-9C1B-428C-B933-89ED7E124279}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vecc.QuickResponseCodes.Sandbox", "src\Vecc.QuickResponseCodes.Sandbox\Vecc.QuickResponseCodes.Sandbox.csproj", "{D59F5B93-9C1B-428C-B933-89ED7E124279}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
